@@ -9,7 +9,7 @@
   
   inputs.src-cookiejar-master.flake = false;
   inputs.src-cookiejar-master.owner = "planety";
-  inputs.src-cookiejar-master.ref   = "refs/heads/master";
+  inputs.src-cookiejar-master.ref   = "master";
   inputs.src-cookiejar-master.repo  = "cookiejar";
   inputs.src-cookiejar-master.type  = "github";
   
