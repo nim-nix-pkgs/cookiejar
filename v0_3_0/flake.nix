@@ -11,7 +11,6 @@
   inputs.src-cookiejar-v0_3_0.ref   = "refs/tags/v0.3.0";
   inputs.src-cookiejar-v0_3_0.owner = "planety";
   inputs.src-cookiejar-v0_3_0.repo  = "cookiejar";
-  inputs.src-cookiejar-v0_3_0.dir   = "";
   inputs.src-cookiejar-v0_3_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
