@@ -2,13 +2,130 @@
   "name": "cookiejar",
   "url": "https://github.com/planety/cookiejar",
   "method": "git",
-  "tags": [],
+  "tags": [
+    {
+      "name": "cookies",
+      "version": "0.1.0",
+      "author": "flywind",
+      "desc": "HTTP Cookies for Nim.",
+      "license": "Apache-2.0",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/v0.1.0"
+    },
+    {
+      "name": "cookiejar",
+      "version": "0.2.0",
+      "author": "flywind",
+      "desc": "HTTP Cookies for Nim.",
+      "license": "Apache-2.0",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/v0.2.0"
+    },
+    {
+      "name": "cookiejar",
+      "version": "0.3.0",
+      "author": "flywind",
+      "desc": "HTTP Cookies for Nim.",
+      "license": "Apache-2.0",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/v0.3.0"
+    }
+  ],
   "description": "HTTP Cookies for Nim.",
   "license": "Apache-2.0",
   "web": "https://github.com/planety/cookiejar",
   "refs": [
-    "fatal: unable to access 'https://github.com/planety/cookiejar/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
+    "refs/heads/master",
+    "refs/tags/v0.1.0",
+    "refs/tags/v0.2.0",
+    "refs/tags/v0.3.0",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "cookiejar",
+      "version": "0.3.0",
+      "author": "flywind",
+      "desc": "HTTP Cookies for Nim.",
+      "license": "Apache-2.0",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
